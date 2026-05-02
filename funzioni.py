@@ -11,6 +11,7 @@ import random
 import matplotlib.pyplot as plt
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
+from config import *
 
 
 def dimensione_azienda(tipo_azienda):
