@@ -12,7 +12,7 @@ Simulazione comparativa tra una azienda di agricoltura e allevamento sostenibile
 
 ## COME ESEGUIRE
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 python main.py
 ```
 
