@@ -5,7 +5,7 @@ costo_fertilizzante = 0.80
 fieno_mucca_latte_kg_giornaliero = 17
 fieno_mucca_carne_kg_giornaliero = 13
 gg_simulazione = 365
-raccolta_fieno_ettari_giornaliero = 1
+ore_raccolta_fieno_per_ettaro = 2.0
 gestione_mucca_latte = 0.3
 gestione_mucca_carne = 0.5
 
