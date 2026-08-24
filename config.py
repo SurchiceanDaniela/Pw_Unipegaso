@@ -12,6 +12,9 @@ costo_fertilizzante = 0.80
 fieno_mucca_latte_kg_giornaliero = 17
 fieno_mucca_carne_kg_giornaliero = 13
 gg_simulazione = 365
+raccolta_fieno_ettari_giornaliero = 1
+gestione_mucca_latte = 0.3
+gestione_mucca_carne = 0.5
 
 params_azienda_sostenibile = {
     "resa_giornaliera_latte_per_mucca"     : 15,
